@@ -454,3 +454,11 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* profile image border radius */
+
+.img-responsive.profile {
+    border-radius: 50%;
+}
+
+
