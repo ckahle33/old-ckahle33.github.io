@@ -1,7 +1,7 @@
 ---
 title: mixalist.io
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2015-12-01
 img: mixalist.png
 alt: image-alt
